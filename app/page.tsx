@@ -96,7 +96,7 @@ export default function SorryPage() {
                   }}
                 >
                   <img 
-                    src="public/sharvani.png" 
+                    src="/sharvani.png" 
                     alt="Shravani"
                     className="w-full h-full object-cover object-top"
                   />

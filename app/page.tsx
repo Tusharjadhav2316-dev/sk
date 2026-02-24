@@ -96,7 +96,7 @@ export default function SorryPage() {
                   }}
                 >
                   <img 
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3tQtA9yUIxvCSehyHOyNve7RSSiNJn.png" 
+                    src="public/sharvani.png" 
                     alt="Shravani"
                     className="w-full h-full object-cover object-top"
                   />
